@@ -2,4 +2,4 @@
 - 👀 I’m interested in resarching,learning & Studying in local cases.
 - 👩‍💻 I'm a Front-End Website Developer.
 - 🌱 I’m currently learning App Development in Creative IT Institute.
-- 🙋‍♂️ You can ask me about your problem in HTML, CSS, JavaScript & Kotlin.
+- 🙋‍♂️ You can ask me about your problem in HTML, CSS, JavaScript, Kotlin & Python.
